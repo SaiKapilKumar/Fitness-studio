@@ -74,7 +74,8 @@ MIT
 
 ## Questions?
 
-For any questions, please contact me with the information below:
+For any questions, please contact us below:
 
-gmail: 1. kaps1612003@gmail.com
-       2. sharonsajan438690@gmail.com
+1. Gmail: kaps1612003@gmail.com
+2. Gmail: sharonsajan438690@gmail.com
+
