@@ -2,7 +2,7 @@
   ![Badge for GitHub](https://img.shields.io/github/languages/top/jordanwhunter/readme-generator?style=flat&logo=appveyor) <br/>
 ![FITNESS](https://user-images.githubusercontent.com/47585614/110193559-3afeb880-7dfa-11eb-8fa8-b942f7515f4d.gif)
 
-### live-preview: [fitness-studio](fitclub-4a2c0.web.app/)
+### live-preview: [fitness-studio](https://fitclub-4a2c0.web.app/)
   
   ## Description 
 
